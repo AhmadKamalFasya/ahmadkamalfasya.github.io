@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body{
+    margin: 0;
+    background-color: #f0f7f7;
+    padding: 0;
+}
+
+/*Color*/
+.bg-ly {
+    background-color: #fcf000;
+}
+
+.bg-blue {
+    background-color: #5fd1de;
+}
+
+.list-group-item{
+    background-color: transparent;
+}
+
+.text-ly {
+    color: #f5c000;
+}
+    
+/*// Navbar*/
+
+.text-nav {
+   font-family: 'Pacifico', cursive;
+}
+
+/*Jumbo Tron*/
+.jumbotron {
+    padding-top: 1rem;
+    background-color:#5fd1de;
+}
+
+.spacer {
+    aspect-ratio: 995/310;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.layer{
+    background-image: url('./assets/layered-waves-haikei.svg');
+}
+
+.svg{
+    height: 15px;
+}
+
+/*About*/
+
+.text-justify {
+    text-align: justify;
+}
+
+/*Project*/
+
+.project {
+
+}
